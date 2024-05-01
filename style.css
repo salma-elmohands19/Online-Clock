@@ -1,0 +1,36 @@
+*{
+    background-image: url(flowers-276014_640.jpg) none fixed  ;
+    width: 100%;
+    top: 0px;
+    position: relative;
+    margin: 0;
+    opacity: 0.96;
+    z-index: -1;
+     
+}
+.img{
+    filter: blur(3px);
+    filter:brightness(0.7);
+}
+.text{
+    text-align: center;
+    font-size: 80px;
+    color: white;
+}
+.page{
+   position: absolute;
+   top: 100px;
+}
+
+.timee{
+    font-size: 70px;
+    text-align: center;
+    justify-content: center;
+    margin-top: 67px;
+    border: 8px solid white;
+    width: 276px;
+    border-radius: 49%;
+    padding: 69px;
+    margin-left: 422px;
+    color: white;
+}
